@@ -1,4 +1,4 @@
-<h1><b> 1->Eye movement Detection and Monitoring</b></h1>
+<h1><b> Eye movement Detection and Monitoring</b></h1>
 <p>The purpose of this project is to detect a person whether it is working seriously in front of the computer or not by tracking whether the movement of the head is in a certain area. The project will create a buzz sound whenever it detect the person is not serious </p>
 <h2>OpenCV</h2>
 	Reading frames in real time and processing frame
